@@ -1,0 +1,42 @@
+C:\Users\tumel\OneDrive\Desktop\PRGProject\bin\Debug\PRGProject.exe.config
+C:\Users\tumel\OneDrive\Desktop\PRGProject\bin\Debug\PRGProject.exe
+C:\Users\tumel\OneDrive\Desktop\PRGProject\bin\Debug\PRGProject.pdb
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.csproj.AssemblyReference.cache
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.Form1.resources
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.PresentationLayer.Main.resources
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.PresentationLayer.Modules.resources
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.PresentationLayer.NewStudent.resources
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.PresentationLayer.Registration.resources
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.Properties.Resources.resources
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.csproj.GenerateResource.cache
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.csproj.CoreCompileInputs.cache
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.exe
+C:\Users\tumel\OneDrive\Desktop\PRGProject\obj\Debug\PRGProject.pdb
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.csproj.AssemblyReference.cache
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.LoginForm.resources
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.PresentationLayer.Main.resources
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.PresentationLayer.Modules.resources
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.PresentationLayer.NewStudent.resources
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.PresentationLayer.Registration.resources
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.Properties.Resources.resources
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.csproj.GenerateResource.cache
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.csproj.CoreCompileInputs.cache
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.exe
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\obj\Debug\PRGProject.pdb
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\bin\Debug\PRGProject.exe.config
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\bin\Debug\PRGProject.exe
+C:\Users\mphel\Downloads\PRGProject (1) (1)\PRGProject\bin\Debug\PRGProject.pdb
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\bin\Debug\PRGProject.exe.config
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\bin\Debug\PRGProject.exe
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\bin\Debug\PRGProject.pdb
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.csproj.AssemblyReference.cache
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.LoginForm.resources
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.PresentationLayer.Main.resources
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.PresentationLayer.Modules.resources
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.PresentationLayer.NewStudent.resources
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.PresentationLayer.Registration.resources
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.Properties.Resources.resources
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.csproj.GenerateResource.cache
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.csproj.CoreCompileInputs.cache
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.exe
+C:\Users\mphel\Downloads\PRG 282 Project Mphela ,Hatlane, Tumelo,Dylan\BCStudentSystem Project\obj\Debug\PRGProject.pdb
